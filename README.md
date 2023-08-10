@@ -2,9 +2,9 @@
 Next.js 13 App Router | React | Tailwind CSS | MySQL |Prisma 
 
 About :
-- Dashboard: Manage multiple stores with interactive graphs, display best-selling products, and highlight the best-performing store.
+- **Dashboard**: Manage multiple stores with interactive graphs, display best-selling products, and highlight the best-performing store.
 
-- Shopping Website: User-friendly with voice-based navigation, allowing seamless browsing and purchases.
+- **Shopping** Website: User-friendly with voice-based navigation, allowing seamless browsing and purchases.
 
 Features :
 - Shadcn UI for the Admin Dashboard.
